@@ -14,17 +14,12 @@ A weather forecast application built using JavaScript, Tailwind CSS, and the Ope
 - LocalStorage integration
 - Error handling
 
-## 🚀 Setup Instructions
-
-1. Clone the repository
-2. Replace `YOUR_OPENWEATHERMAP_API_KEY` in `script.js`
-3. Open `index.html` in a browser
 
 ## 📦 Tech Stack
 
 - JavaScript
 - HTML + Tailwind CSS
-- OpenWeatherMap API
+-  weatherapi.com
 
 
 ---
